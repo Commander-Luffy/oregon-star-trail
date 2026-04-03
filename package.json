@@ -1,0 +1,23 @@
+{
+  "name": "oregon-star-trail",
+  "version": "0.1.0",
+  "description": "Oregon Star-Trail — sail the Grand Line. Resource loop. Day tick. Nobody has root.",
+  "type": "module",
+  "scripts": {
+    "dev": "bunx vite",
+    "build": "bunx vite build",
+    "preview": "bunx vite preview"
+  },
+  "dependencies": {
+    "react": "^19",
+    "react-dom": "^19"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "@vitejs/plugin-react": "^4",
+    "typescript": "^5",
+    "vite": "^6"
+  }
+}
